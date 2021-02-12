@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create Validation Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Project: [Create Validation Form](gigantic-button.surge.sh).
 
 ## Available Scripts
 
@@ -39,9 +39,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### `yarn deploy`
+
+Builds the app for production to the `build` folder and Server project
+
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create Validation Form documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
